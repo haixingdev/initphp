@@ -139,5 +139,4 @@ class fileInit {
 		}
 		return $succeed;
 	}
-}	
-?>
+}
